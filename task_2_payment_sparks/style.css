@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar
+{
+    border-bottom: 2px solid;
+}
+.home{
+    background-color :#3f0d12;
+background-image :linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
+padding-top: 68% !important; 
+padding-bottom: 67%  !important;
+}
+.detail-head
+{
+    background-color: #6b0f1a;
+background-image: linear-gradient(315deg, #6b0f1a 0%, #b91372 74%);
+
+}
+.input-group
+{
+    border: none;
+    border-bottom: 1px solid;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.img
+{
+    margin-left: 20px;
+}
